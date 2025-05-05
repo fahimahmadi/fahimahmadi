@@ -1,6 +1,6 @@
 ## Hi, I'm Fahim 👋 👨‍💻
 
-<img src="banner.png" alt="Fahim's Profile Banner" style="width:100%"/>
+<img src="github-banner.jpg" alt="Fahim's Profile Banner" style="width:100%"/>
 
 <!--
 **fahimahmadi/fahimahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
