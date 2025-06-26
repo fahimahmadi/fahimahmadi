@@ -5,7 +5,7 @@
 🎯 **Full-Stack Developer | Backend Specialist | Tech Educator | Team Lead**  
 🌍 Based in Germany | Open to Remote/OnSite Opportunities  
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -21,7 +21,7 @@ Git • Docker • GitHub Actions • MongoDB • PostgreSQL • MySQL • AWS �
 **Testing & QA:**  
 • Playwright • Cucumber • Jest
 
----
+
 
 ## 👨‍🏫 About Me
 
@@ -32,13 +32,13 @@ Git • Docker • GitHub Actions • MongoDB • PostgreSQL • MySQL • AWS �
 - 🛡️ Enthusiastic about cybersecurity, API security, and modern deployment strategies.
 - 📚 Currently deepening my expertise in **microservices**, **CI/CD pipelines**, and **cloud-native apps**.
 
----
+
 <!--
 ## 📈 GitHub Stats
 
 ![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimahmadi&show_icons=true&theme=default)
 -->
----
+
 
 ## 📫 Get in Touch
 
@@ -46,6 +46,6 @@ Git • Docker • GitHub Actions • MongoDB • PostgreSQL • MySQL • AWS �
 - Email: a.fahimahmadi@gmail.de
 - Portfolio: _Coming Soon_
 
----
+<br />
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
