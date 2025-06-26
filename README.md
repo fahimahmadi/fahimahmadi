@@ -36,7 +36,7 @@ Git • Docker • GitHub Actions • MongoDB • PostgreSQL • MySQL • AWS �
 
 ## 📈 GitHub Stats
 
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim-ahn&show_icons=true&theme=default)
+![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimahmadi&show_icons=true&theme=default)
 
 ---
 
