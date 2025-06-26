@@ -33,11 +33,11 @@ Git • Docker • GitHub Actions • MongoDB • PostgreSQL • MySQL • AWS �
 - 📚 Currently deepening my expertise in **microservices**, **CI/CD pipelines**, and **cloud-native apps**.
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimahmadi&show_icons=true&theme=default)
-
+-->
 ---
 
 ## 📫 Get in Touch
